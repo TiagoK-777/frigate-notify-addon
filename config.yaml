@@ -13,8 +13,8 @@ map:
 ports:
   8000/tcp: 8000
 environment:
-  FN_CONFIGFILE: /config/config.yml
-  TZ: America/Sao_Paulo
+  FN_CONFIGFILE: /config/frigate-notify.yml
+  TZ: ${TZ:-UTC}
 schema:
   SERVER_PORT: "int?"
 image: "ghcr.io/0x2142/frigate-notify"
