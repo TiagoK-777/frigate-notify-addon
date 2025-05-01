@@ -10,17 +10,6 @@
 
 Frigate-Notify is a simple app designed to send notifications from [Frigate](https://github.com/blakeblackshear/frigate) NVR to your favorite platforms. Intended to be used with standalone Frigate installations - Home Assistant not required, MQTT is optional but recommended.
 
----
-
-<h2 align="center">
-  <i>Este addon está sendo útil?</i><br><br>
-  <img src="https://raw.githubusercontent.com/TiagoK-777/frigate-notify-addon/refs/heads/master/pix.jpg" width="250" alt="QR Code para doação via Pix"><br><br>
-  <b>Considere fazer uma doação para apoiar o desenvolvimento e manter este projeto ativo! 🙏</b><br>
-  <i>Qualquer valor é bem-vindo e ajuda muito ❤️</i>
-</h2>
-
----
-
 ## Features
 
 ### Event Polling
